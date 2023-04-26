@@ -14,8 +14,8 @@
 	</head>
 	<body>
 		<div id="wrap">
-			<h1>메인페이지</h1>
-			<hr>
+			<h1>메인페이지(수정)</h1>
+			<img src="/images/다음로고.png" alt="다음 로고 이미지" />
 		</div>
 		<!-- div#wrap -->
 	</body>
